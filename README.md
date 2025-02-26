@@ -28,4 +28,4 @@ f.	Summarize Findings
 •	Learnt how to connect the SQL server database with the Power BI.<br />
 •	Created a calculated columns & DAX measures.<br />
 •	How to add icons to enhance the visuals on the dashboards.<br />
-•	Used different charts along with key metrics, just to show the trend along with the metrics itself,
+•	Used different charts along with key metrics, just to show the trend along with the metrics itself.
