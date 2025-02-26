@@ -16,9 +16,8 @@ d.	Connect Power BI to the database<br />
 e.	Create a Dashboard<br />
 f.	Summarize Findings
 
-## Dashboard 
-
-![image](![Screenshot 2025-02-27 010527](https://github.com/user-attachments/assets/5c5e71dd-54cf-4f52-9d79-7c2a74d5a201)
+## Dashboard
+[Screenshot 2025-02-27 010527](https://github.com/user-attachments/assets/5c5e71dd-54cf-4f52-9d79-7c2a74d5a201)
 
 
 ## Knowledge gain from this project
